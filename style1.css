@@ -1,0 +1,163 @@
+body {
+    font-family: sans-serif;
+    background-image: url('https://github.com/RastewX/cosmos/blob/main/Обои%20айфон%2012%20pro%20обои%20айфон%2013%20оригинальные%20розовые%20обои%20обои%20фоны%20эстетика%20черный%20обои%20айфон.jpeg?raw=true');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#bdbdca;
+    width: 1440px;
+}
+
+
+.all{
+    width:1300px;
+    justify-content: center;
+    padding:5px 20px 10px 20px;
+    margin: 0px 70px 10px 70px;
+    background-color: #3e3d4d;
+}
+
+header h1{
+    font-family: arial black;
+    margin-left: 50px;
+    padding-top: 7px;
+    color:#3f3f3f;
+}
+
+header{
+    background-image: url('https://github.com/RastewX/cosmos/blob/main/image.png?raw=true');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:9px;
+    margin-top:5px;
+}
+
+.org{
+    display: flex;
+    justify-content: space-around;
+    width: 1300px;
+    
+}
+
+.planet img{
+    width: 200px;
+    margin-left:80px ;
+    margin-top:20px ;
+}
+
+.stars img{
+    width: 400px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.other img{
+    width: 400px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+
+
+.planet {
+    width: 450px;
+    background-color: #63627b;
+    margin: 5px 20px 5px 10px;
+    padding: 0px 5px 0px 10px;
+}
+
+.stars{
+    width: 450px;
+    background-color: #63627b;
+    margin: 5px 20px 5px 10px;
+    padding: 0px 5px 0px 10px;
+}
+
+.other {
+    width: 450px;
+    background-color: #63627b;
+    margin: 5px 20px 5px 10px;
+    padding: 0px 5px 0px 10px;
+}
+
+.fact{
+    width: 900px;
+}
+
+.h2{
+    background-color: #26262f;
+    padding: 5px;
+}
+
+.fact{
+    border-left:10px double #4e4c6d;
+}
+
+.planet a{
+    color:#bdbdca;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: sans-serif;
+    background-color: #4e4c6d;
+    padding: 2px;
+    position: relative;
+    top:10px;
+    left:120px;
+}
+
+.stars a{
+    color:#bdbdca;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: sans-serif;
+    background-color: #4e4c6d;
+    padding: 2px;
+    position: relative;
+    top:10px;
+    left: 50px;
+}
+
+.other a{
+    color:#bdbdca;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: sans-serif;
+    background-color: #4e4c6d;
+    padding: 2px;
+    position: relative;
+    top:10px;
+    left: 40px;
+}
+
+nav {
+    border-top: 3px solid ;
+    border-bottom: 3px solid  ;
+    background-color: #46475F;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 1440px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color:#bdbdca;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.ff{
+    display: flex;
+    justify-content: space-around;
+}
+
+.aa{
+    background-color:#26262f;
+    font-size: 25px;
+    padding: 5px;
+}
+
+a:hover{
+    color:#373854;
+}
