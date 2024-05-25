@@ -1,0 +1,202 @@
+body {
+    font-family: sans-serif;
+    background-image: url('https://www.mirf.ru/wp-content/uploads/2017/09/start1-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:#bdbdca;
+}
+
+
+.all{
+    width:1300px;
+    justify-content: center;
+    padding:5px 20px 10px 20px;
+    margin: 0px 70px 10px 70px;
+    background-color: #3e3d4d;
+}
+
+header h1{
+    font-family: arial black;
+    margin-left: 50px;
+    padding-top: 7px;
+    color:#3f3f3f;
+}
+
+header{
+    background-image: url('https://github.com/RastewX/cosmos/blob/main/image.png?raw=true');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:9px;
+    margin-top:5px;
+}
+
+.org{
+    display: flex;
+    justify-content: space-around;
+    width: 1300px;
+    
+}
+
+.stars{
+    width: 450px;
+    background-color: #63627b;
+    margin: 5px 20px 5px 10px;
+    padding: 0px 5px 0px 10px;
+}
+
+.other {
+    width: 450px;
+    background-color: #63627b;
+    margin: 5px 20px 5px 10px;
+    padding: 0px 5px 0px 10px;
+}
+
+.fact{
+    width: 900px;
+}
+
+.h2{
+    background-color: #26262f;
+    padding: 5px;
+}
+
+.fact{
+    border-left:10px double #4e4c6d;
+}
+.pp2{
+    display: flex;
+
+}
+
+.pp1{
+    width:600px;
+    
+} 
+
+.pp2 img{
+    width: 500px;
+
+}
+
+.pp3 img{
+    width: 500px;
+}
+
+.pp3{
+    display: flex;
+}
+
+table{
+    background-color: #555469;
+    color:#bdbdca;
+    text-align: center;
+    font-size: 17px;
+    border-collapse: collapse;
+}
+
+td{
+    border: 3px solid #1f1e26;
+    padding: 10px;
+
+}
+
+tr:first-child{
+    background-color: #353542;
+
+}
+
+.planet{
+    background-color: #4c4b5f;
+    padding: 2px 20px 20px 20px;
+    margin: 20px;
+
+}
+
+
+.planet img{
+    margin: auto;
+    padding: 20px;
+}
+span{
+    background-color: #7a6f8c;
+    padding: 2px;
+}
+
+.span{
+    border: 5px dotted #3e3d4d;
+    padding: 3px;
+}
+
+.oil{
+    background-color: #61586f;
+    margin-right: 1100px;
+    padding: 20px 0px 20px 45px;
+    border:3px solid #2e2d39;
+    font-size: 20px;
+}
+
+a{
+    color:#2e2d39;
+    text-decoration: none;
+}
+
+.oil a:hover{
+    border-bottom:3px dotted #26262f;
+}
+
+.oil a:focus{
+    color:#7c7a96;
+}
+
+.ff{
+    background-color: #6b6985;
+    padding: 20px;
+    margin:30px 500px 30px 500px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 50px;
+    border: 3px solid #2e2d39;
+}
+
+
+.live{
+    display: block;
+    background-color:#73718e;
+    padding: 25px;
+    margin: auto;
+
+}
+
+nav {
+    border-top: 3px solid ;
+    border-bottom: 3px solid  ;
+    background-color: #46475F;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 1440px;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color:#bdbdca;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.fff{
+    display: flex;
+    justify-content: space-around;
+}
+
+.aa{
+    background-color:#26262f;
+    font-size: 25px;
+    padding: 5px;
+}
+
+a:hover{
+    color:#373854;
+}
